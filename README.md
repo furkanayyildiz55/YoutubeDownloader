@@ -1,7 +1,7 @@
 # YoutubeDownloader
 
 ### What is a Youtube Downloader Application?
-Makes mp4 or Mp3 downloads.
+**Makes Mp4 or Mp3 downloads.**
 
 
 
